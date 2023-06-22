@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![My App](pic1.png?raw=true)
+![My App](pic2.png?raw=true)
+![My App](pic3.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
