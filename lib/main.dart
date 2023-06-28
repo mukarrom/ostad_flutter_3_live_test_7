@@ -81,6 +81,7 @@ class _CounterAppState extends State<CounterApp> {
     );
   }
 
+  /// incrementCounter function
   void _incrementCounter(BuildContext context) {
     counter++;
     if (counter == 5) {
